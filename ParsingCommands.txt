@@ -1,0 +1,99 @@
+
+ %%% ADY %%%
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_ADY.xml -l Lemma/Auto_Lemma_ADY.xml -a clause -s "jane pŝaŝe m pisme 0 r jə ʁe txə ʁ"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_ADY.xml -l Lemma/Auto_Lemma_ADY.xml -a clause -s "s jate məje xe njepe qə s j e ʁe šəpə"
+
+ %%% BAK %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BAK.xml -l Lemma/Auto_Lemma_BAK.xml -a sentence -s "min bala nan xat jað ðər a m"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BAK.xml -l Lemma/Auto_Lemma_BAK.xml -a sentence -s "babaj ul ə na xat tə uqət tər a"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BAK.xml -l Lemma/Auto_Lemma_BAK.xml -a sentence -s "ataj bala lar ðan jeläk jəj ðər a"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BAK.xml -l Lemma/Auto_Lemma_BAK.xml -a sentence -s "bala besäj gä höt tö es er ä"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BAK.xml -l Lemma/Auto_Lemma_BAK.xml -a sentence -s "dilä beð gä üð e neŋ kejäw jeget e neŋ foto hə n kür hät te"
+
+
+ %%% BXK %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BXK.xml -l Lemma/Auto_Lemma_BXK.xml -a sentence -s "wafula a nyw esy a wekesa ka ma lwa"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_BXK.xml -l Lemma/Auto_Lemma_BXK.xml -a sentence -s "o mw ekesi 0 a p isy a o mu khangarani li sisi"
+
+
+ %%% ESS %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_ESS.xml -l Lemma/Auto_Lemma_ESS.xml -a sentence -s "arna m qamtə sta qaa xluk panigmi nun"
+
+
+ %%% EST %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_EST.xml -l Lemma/Auto_Lemma_EST.xml -a sentence -s "pille näi ta s maarika le pilte"
+
+
+ %%% FIN %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_FIN.xml -l Lemma/Auto_Lemma_FIN.xml -a sentence -s "mikko kuiva tta a pyykki nsä naapuri lla an"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_FIN.xml -l Lemma/Auto_Lemma_FIN.xml -a sentence -s "kalle rakenn utta a talo n peka lla"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_FIN.xml -l Lemma/Auto_Lemma_FIN.xml -a sentence -s "satu tapa tt i etana n diane lla"
+
+
+ %%% HUN %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_HUN.xml -l Lemma/Auto_Lemma_HUN.xml -a sentence -s "jános meg et et te mari val az almá t"
+
+
+ %%% KAN %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KAN.xml -l Lemma/Auto_Lemma_KAN.xml -a sentence -s "avanu nana ge bisket annu tinn is id anu"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KAN.xml -l Lemma/Auto_Lemma_KAN.xml -a sentence -s "avanu nann inda bisket annu tinn is id anu"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KAN.xml -l Lemma/Auto_Lemma_KAN.xml -a sentence -s "avanu nana ge tɩȳ annu kud is id anu"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KAN.xml -l Lemma/Auto_Lemma_KAN.xml -a sentence -s "avanu nann inda tɩȳ annu kud is id anu"
+
+
+ %%% KBD %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KBD.xml -l Lemma/Auto_Lemma_KBD.xml -a clause -s "ł'əźə m ś'āla m pχa r yə r yə ġa q'wət a ś"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KBD.xml -l Lemma/Auto_Lemma_KBD.xml -a clause -s "yaġadžāk'wa m yadžāk'wa r wəsa m q' rə y ġa dž ā ś"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KBD.xml -l Lemma/Auto_Lemma_KBD.xml -a clause -s "ā c'əxwə m txəłə r mə fəz əm yə r ya t"
+
+
+ %%% KIN %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KIN.xml -l Lemma/Auto_Lemma_KIN.xml -a sentence -s "habimana y a men esh eje umw ana igi kombe"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KIN.xml -l Lemma/Auto_Lemma_KIN.xml -a sentence -s "umw arimu y a ki men esh eje umw ana"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KIN.xml -l Lemma/Auto_Lemma_KIN.xml -a sentence -s "habimana y a men a igi kombe"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KIN.xml -l Lemma/Auto_Lemma_KIN.xml -a sentence -s "umw arimu y a ndik ish ije umw ana in kuru"
+
+
+ %%% KJH %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KJH.xml -l Lemma/Auto_Lemma_KJH.xml -a sentence -s "maša vas'a ny sok iz irt če"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_KJH.xml -l Lemma/Auto_Lemma_KJH.xml -a sentence -s "pastax toɣasčy n mašyna ny š'un dur š'e"
+
+
+ %%% MTT %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_MTT.xml -l Lemma/Auto_Lemma_MTT.xml -a sentence -s "renat zexra dan išek ne jap tɤr a"
+
+
+ %%% NIV %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_NIV.xml -l Lemma/Auto_Lemma_NIV.xml -a sentence -s "ytik n' aχ mos amla gu d"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_NIV.xml -l Lemma/Auto_Lemma_NIV.xml -a sentence -s "ytyk p'oγla aχ pitγy ama gu d"
+
+
+ %%% TEL %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TEL.xml -l Lemma/Auto_Lemma_TEL.xml -a sentence -s "nēnu rāmu cēta kāru kaḍig inc ǣ nu"
+
+
+ %%% TPY %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TPY.xml -l Lemma/Auto_Lemma_TPY.xml -a sentence -s "hai ts kumaru 0 sone ka wirix es"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TPY.xml -l Lemma/Auto_Lemma_TPY.xml -a sentence -s "hai ts chiin atawaka k atlat 0 mapa ka"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TPY.xml -l Lemma/Auto_Lemma_TPY.xml -a sentence -s "alaweru k hai ts axos 0 disi ka"
+
+
+ %%% TUR %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TUR.xml -l Lemma/Auto_Lemma_TUR.xml -a sentence -s "dišči mektub u mudur e imzala t ti"
+
+
+ %%% TYV %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TYV.xml -l Lemma/Auto_Lemma_TYV.xml -a sentence -s "ašak bayir ni inek ti oorla t kan"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_TYV.xml -l Lemma/Auto_Lemma_TYV.xml -a sentence -s "ašak bayir ni inek oorla t kan"
+
+
+ %%% XAL %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_XAL.xml -l Lemma/Auto_Lemma_XAL.xml -a sentence -s "bagšə madn igə škol də kogʒmə soŋs ul na"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_XAL.xml -l Lemma/Auto_Lemma_XAL.xml -a sentence -s "ezə n kodəlməšč ar xo al ulə v"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_XAL.xml -l Lemma/Auto_Lemma_XAL.xml -a sentence -s "ekə urə n d an xašə id ul ʒa na"
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_XAL.xml -l Lemma/Auto_Lemma_XAL.xml -a sentence -s "badma gerg n annj zurəg nan də uz ulə v"
+
+
+ %%% YAQ %%% 
+java -jar ~/TuLiPA-frames/TuLiPA-frames.jar -rrg -g MainMetagrammar.xml -m Morpho/Auto_Morpho_YAQ.xml -l Lemma/Auto_Lemma_YAQ.xml -a sentence -s "aurelia karmen ta u ka ili usi ta bit tua k"
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="steal" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionTYV]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Pst" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="oldman" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTYV]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="cow" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTYV]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Bayir" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTYV]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Acc" cat="casemark">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

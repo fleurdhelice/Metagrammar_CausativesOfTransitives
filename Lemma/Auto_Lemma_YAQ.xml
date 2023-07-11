@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="see" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Pstpfv" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="the" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="little" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="child" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Carmen" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Aurelia" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentYAQ]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorCausAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Acc" cat="casemark">
+    <anchor tree_id="family[@name=AnchorCaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="wirix">
+    <lemmaref cat="nroot" name="porridge">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="sone">
+    <lemmaref cat="vroot" name="drink">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mapa">
+    <lemmaref cat="vroot" name="break">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="disi">
+    <lemmaref cat="vroot" name="hit">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="axos">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="atlat">
+    <lemmaref cat="nroot" name="pan">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kumaru">
+    <lemmaref cat="nroot" name="Kumaru">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="hai">
+    <lemmaref cat="nroot" name="I">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="chiin">
+    <lemmaref cat="naff" name="Foc-Tns">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="atawaka">
+    <lemmaref cat="nroot" name="Atawaka">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="alaweru">
+    <lemmaref cat="nroot" name="Alaweru">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ka">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ts">
+    <lemmaref cat="casemark" name="Erg">
+      <fs>
+        <f name="case">
+          <sym value="erg"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="k">
+    <lemmaref cat="casemark" name="Erg">
+      <fs>
+        <f name="case">
+          <sym value="erg"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="es">
+    <lemmaref cat="casemark" name="Dat">
+      <fs>
+        <f name="case">
+          <sym value="dat"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="0">
+    <lemmaref cat="casemark" name="Abs">
+      <fs>
+        <f name="case">
+          <sym value="abs"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

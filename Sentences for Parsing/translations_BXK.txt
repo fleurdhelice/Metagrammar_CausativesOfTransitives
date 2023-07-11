@@ -1,0 +1,5 @@
+wafula a nyw esy a wekesa ka ma lwa
+%% [('Wafula',), ('Sbjc1Tns', 'drink', 'Caus', 'Fv'), ('Wekesa',), ('c6', 'c6', 'beer')]
+
+o mw ekesi 0 a p isy a o mu khangarani li sisi
+%% [('c1', 'c1', 'teacher'), ('ConeSbj', 'Pst', 'hit', 'Caus', 'Fv'), ('c1', 'c1', 'warrior'), ('c5', 'wall')]

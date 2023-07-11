@@ -1,0 +1,9 @@
+mikko kuiva tta a pyykki nsä naapuri lla an
+%% [('Mikko',), ('dry', 'Caus', '3Sg'), ('laundry', 'Poss3'), ('neighbour', 'Adess', 'Poss3')]
+
+kalle rakenn utta a talo n peka lla
+%% [('Kalle',), ('build', 'Caus', '3Sg'), ('house', 'Acc'), ('Pekka', 'Ins')]
+
+satu tapa tt i etana n diane lla
+%% [('Satu',), ('kill', 'Caus', 'Pst3Sg'), ('slug', 'Acc'), ('Diane', 'Adess')]
+

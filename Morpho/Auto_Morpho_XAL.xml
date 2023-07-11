@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="uz">
+    <lemmaref cat="vroot" name="see">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="soŋs">
+    <lemmaref cat="vroot" name="listen">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="id">
+    <lemmaref cat="vroot" name="eat">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="al">
+    <lemmaref cat="vroot" name="kill">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ʒa">
+    <lemmaref cat="aff" name="Prog">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="v">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="na">
+    <lemmaref cat="aff" name="Prs">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="zurəg">
+    <lemmaref cat="nroot" name="image">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="xo">
+    <lemmaref cat="nroot" name="ram">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="xašə">
+    <lemmaref cat="nroot" name="porridge">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="urə">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="škol">
+    <lemmaref cat="nroot" name="school">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nan">
+    <lemmaref cat="nroot" name="1SG">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="madn">
+    <lemmaref cat="nroot" name="1PL">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kogʒmə">
+    <lemmaref cat="nroot" name="music">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kodəlməšč">
+    <lemmaref cat="nroot" name="servant">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="gerg">
+    <lemmaref cat="nroot" name="wife">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ezə">
+    <lemmaref cat="nroot" name="master">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ekə">
+    <lemmaref cat="nroot" name="mother">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="bagšə">
+    <lemmaref cat="nroot" name="teacher">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="badma">
+    <lemmaref cat="nroot" name="Badma">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="n">
+    <lemmaref cat="naff" name="Ext">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="annj">
+    <lemmaref cat="naff" name="GenPoss3">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="an">
+    <lemmaref cat="naff" name="PossRefl">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ul">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ulə">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="igə">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="d">
+    <lemmaref cat="casemark" name="Dat">
+      <fs>
+        <f name="case">
+          <sym value="dat"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="də">
+    <lemmaref cat="casemark" name="Dat">
+      <fs>
+        <f name="case">
+          <sym value="dat"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ar">
+    <lemmaref cat="casemark" name="Ins">
+      <fs>
+        <f name="case">
+          <sym value="ins"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

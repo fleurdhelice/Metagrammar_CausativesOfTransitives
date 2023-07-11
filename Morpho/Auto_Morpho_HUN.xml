@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="et">
+    <lemmaref cat="vroot" name="eat">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="te">
+    <lemmaref cat="aff" name="PstDefObj">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="meg">
+    <lemmaref cat="aff" name="Prf">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="az">
+    <lemmaref cat="naff" name="def">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="almá">
+    <lemmaref cat="nroot" name="apple">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mari">
+    <lemmaref cat="nroot" name="Mari">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="jános">
+    <lemmaref cat="nroot" name="Janos">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="et">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="val">
+    <lemmaref cat="casemark" name="Ins">
+      <fs>
+        <f name="case">
+          <sym value="ins"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="t">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

@@ -1,0 +1,6 @@
+ytik n' aχ mos amla gu d
+%% [('grandmother',), ('1Sg', 'Dat/Acc'), ('berrypudding',), ('taste', 'Caus', 'Fin')]
+
+ytyk p' oγla aχ pitγy ama gu d
+%% [('father',), ('Poss', 'child', 'Dat/Acc'), ('book',), ('see', 'Caus', 'Fin')]
+

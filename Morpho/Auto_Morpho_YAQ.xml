@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="bit">
+    <lemmaref cat="vroot" name="see">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="k">
+    <lemmaref cat="aff" name="Pstpfv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="usi">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="u">
+    <lemmaref cat="nroot" name="the">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ili">
+    <lemmaref cat="nroot" name="little">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="karmen">
+    <lemmaref cat="nroot" name="Carmen">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="aurelia">
+    <lemmaref cat="nroot" name="Aurelia">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="tua">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ta">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ka">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

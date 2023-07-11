@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="š'un">
+    <lemmaref cat="vroot" name="wash">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="iz">
+    <lemmaref cat="vroot" name="drink">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="š'e">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="če">
+    <lemmaref cat="aff" name="Prs">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="toɣasčy">
+    <lemmaref cat="nroot" name="worker">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="sok">
+    <lemmaref cat="nroot" name="juice">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mašyna">
+    <lemmaref cat="nroot" name="car">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="pastax">
+    <lemmaref cat="nroot" name="boss">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="vas'a">
+    <lemmaref cat="nroot" name="Vasja">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="maša">
+    <lemmaref cat="nroot" name="Masha">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="irt">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="dur">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="n">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ny">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

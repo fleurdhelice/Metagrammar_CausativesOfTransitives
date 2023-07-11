@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="oorla">
+    <lemmaref cat="vroot" name="steal">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kan">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="inek">
+    <lemmaref cat="nroot" name="cow">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ašak">
+    <lemmaref cat="nroot" name="oldman">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="bayir">
+    <lemmaref cat="nroot" name="Bayir">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="t">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ti">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ni">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

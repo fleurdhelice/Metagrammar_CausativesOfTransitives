@@ -1,0 +1,2 @@
+pille näi ta s maarika le pilte
+%% [('Pille',), ('see', 'Caus', 'Pst3Sg'), ('Maarika', 'All'), ('pictures',)]

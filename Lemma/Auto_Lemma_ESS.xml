@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="extinguish" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="extinguish" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Antip" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3Sg:3Sg" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3Sg" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="woman" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="woman" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="oven" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="oven" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="daughter" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentESS]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Ins" cat="casemark">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Erg" cat="casemark">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Dat" cat="casemark">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

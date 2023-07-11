@@ -1,0 +1,5 @@
+ašak bayir ni inek ti oorla t kan
+%% [('oldman',), ('Bayir', 'Acc'), ('cow', 'Acc'), ('steal', 'Caus', 'Pst')]
+
+ašak bayir ni inek oorla t kan
+%% [('oldman',), ('Bayir', 'Acc'), ('cow',), ('steal', 'Caus', 'Pst')]

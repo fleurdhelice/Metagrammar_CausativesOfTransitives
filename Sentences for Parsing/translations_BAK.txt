@@ -1,0 +1,14 @@
+min bala nan xat jað ðər a m
+%% [('1Sg',), ('child', 'Abl'), ('letter',), ('write', 'Caus', 'Ipfv', '1Sg')]
+
+babaj ul ə na xat tə uqə t tər a
+%% [('oldman',), ('son', 'Poss3', 'Dat'), ('letter', 'Acc'), ('read', 'Caus', 'Caus', 'Ipfv')]
+
+ataj bala lar ðan jeläk jəj ðər a
+%% [('father',), ('child', 'Pl', 'Abl'), ('berry',), ('pickup', 'Caus', 'Ipfv')]
+
+bala besäj gä höt tö es er ä
+%% [('child',), ('cat', 'Dat'), ('milk', 'Acc'), ('drink', 'Caus', 'Ipfv')]
+
+dilä beð gä foto hə n kür hät te
+%% [('Dila',), ('we', 'Dat'), ('photo', 'Poss3', 'Acc'), ('see', 'Caus', 'Pst')]

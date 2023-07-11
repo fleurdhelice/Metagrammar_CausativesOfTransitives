@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="ndik">
+    <lemmaref cat="vroot" name="write">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="men">
+    <lemmaref cat="vroot" name="break">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="y">
+    <lemmaref cat="aff" name="c1Sbj">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ki">
+    <lemmaref cat="aff" name="c7Obj">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ije">
+    <lemmaref cat="aff" name="Pfv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="eje">
+    <lemmaref cat="aff" name="Pfv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Ipfv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="umw">
+    <lemmaref cat="naff" name="c1">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kuru">
+    <lemmaref cat="nroot" name="story">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kombe">
+    <lemmaref cat="nroot" name="cup">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="in">
+    <lemmaref cat="naff" name="c9">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="igi">
+    <lemmaref cat="naff" name="c7">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="arimu">
+    <lemmaref cat="nroot" name="teacher">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ana">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="habimana">
+    <lemmaref cat="nroot" name="Habimana">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Ipfv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ish">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="esh">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

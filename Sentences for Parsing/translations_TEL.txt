@@ -1,0 +1,2 @@
+nēnu rāmu cēta kāru kaḍig inc ǣ nu
+%% [('I',), ('Ramu', 'Ins'), ('car'), ('wash', 'Caus', 'Pst', '1Sg')]

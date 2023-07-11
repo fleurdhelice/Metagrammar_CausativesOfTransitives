@@ -1,0 +1,2 @@
+jános meg et et te mari val az almá t
+%% [('Janos',), ('Prf', 'eat', 'Caus', 'PstDefObj'), ('Mari', 'Ins'), ('def',), ('apple', 'Acc')]

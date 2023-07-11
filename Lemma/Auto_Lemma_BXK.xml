@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="hit" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="drink" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Sbjc1Tns" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Fv" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="ConeSbj" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="warrior" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="wall" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="teacher" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="c6" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="c5" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="c1" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="beer" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Wekesa" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Wafula" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentBXK]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorCausAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

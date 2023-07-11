@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="go" cat="vroot">
+    <anchor tree_id="family[@name=TEST_IntersectionADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="write" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="gather" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Pst" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Prs" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Dir" cat="aff">
+    <anchor tree_id="family[@name=AnchorAdjunctVerbalInflectAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3SgCauser" cat="argaff">
+    <anchor tree_id="family[@name=ArgumentADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3SgCauser" cat="argaff">
+    <anchor tree_id="family[@name=ArgumentADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3SgCausee" cat="argaff">
+    <anchor tree_id="family[@name=ArgumentADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="3SgAbs" cat="argaff">
+    <anchor tree_id="family[@name=ArgumentADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="1SgCausee" cat="argaff">
+    <anchor tree_id="family[@name=ArgumentADY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="today" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="girl" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="father" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="apple" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="mother" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="letter" cat="nroot">
+    <anchor tree_id="family[@name=NounWithCase]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Pl" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="1Sg" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Erg" cat="casemark">
+    <anchor tree_id="family[@name=AnchorOneMorpheme]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

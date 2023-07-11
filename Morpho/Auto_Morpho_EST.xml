@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="näi">
+    <lemmaref cat="vroot" name="see">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="s">
+    <lemmaref cat="aff" name="Pst3Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="pilte">
+    <lemmaref cat="nroot" name="pictures">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="pille">
+    <lemmaref cat="nroot" name="Pille">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="maarika">
+    <lemmaref cat="nroot" name="Maarika">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ta">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="le">
+    <lemmaref cat="casemark" name="All">
+      <fs>
+        <f name="case">
+          <sym value="all"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

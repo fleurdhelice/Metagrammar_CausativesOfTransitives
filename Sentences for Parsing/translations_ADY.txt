@@ -1,0 +1,5 @@
+jane pŝaŝe m pisme 0 r jə ʁe txə ʁ
+%% [('mother(Erg)',), ('girl', 'Erg'), ('letter(Abs)',), ('3SgAbs', '3SgIo', '3SgA', 'Caus', 'write', 'Pst')]
+
+s jate məje xe njepe qə s j e ʁe šəpə
+%% [('1Sg', 'father'), ('apple', 'Pl'), ('today',), ('Dir', '1SgCausee', '3SgCauser', 'Prs', 'Caus', 'gather')]

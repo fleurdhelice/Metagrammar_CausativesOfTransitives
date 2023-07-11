@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<lemmas>
+  <lemma name="porridge" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="hit" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="drink" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="pan" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="child" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="break" cat="vroot">
+    <anchor tree_id="family[@name=IntersectionTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Kumaru" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Foc-Tns" cat="naff">
+    <anchor tree_id="family[@name=AnchorAdjunctNominalNoncaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Atawaka" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Alaweru" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="I" cat="nroot">
+    <anchor tree_id="family[@name=ArgumentTPY]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="CAUS" cat="causaff">
+    <anchor tree_id="family[@name=AnchorCausAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Erg" cat="casemark">
+    <anchor tree_id="family[@name=AnchorCaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Dat" cat="casemark">
+    <anchor tree_id="family[@name=AnchorCaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+  <lemma name="Abs" cat="casemark">
+    <anchor tree_id="family[@name=AnchorCaseAffix]">
+      <filter>
+        <fs>
+        </fs>
+      </filter>
+    </anchor>
+  </lemma>
+</lemmas>
+</mcgrammar>

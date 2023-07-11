@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<grammar>
+  <entry name="ArgumentYAQ_0">
+    <family>ArgumentYAQ</family>
+    <trace>
+      <class>Plugin_YAQ</class>
+      <class>NominalSpine</class>
+      <class>NounWithCase</class>
+      <class>ArgumentYAQ</class>
+    </trace>
+    <frame >
+    </frame>
+    <tree id="ArgumentYAQ_0">
+      <node type="std" name="XMGVAR_NP">
+        <narg>
+          <fs coref="@AVM1">
+            <f name="case">
+              <sym varname="@V2"/>
+            </f>
+            <f name="cat">
+              <sym value="np"/>
+            </f>
+            <f name="e">
+              <sym varname="@V3"/>
+            </f>
+            <f name="mr">
+              <sym varname="@V4"/>
+            </f>
+          </fs>
+        </narg>
+        <node type="std" name="XMGVAR_CORE_N">
+          <narg>
+            <fs coref="@AVM5">
+              <f name="case">
+                <sym varname="@V2"/>
+              </f>
+              <f name="cat">
+                <sym value="core_n"/>
+              </f>
+              <f name="e">
+                <sym varname="@V3"/>
+              </f>
+              <f name="mr">
+                <sym varname="@V4"/>
+              </f>
+            </fs>
+          </narg>
+          <node type="std" name="XMGVAR_NUC_N">
+            <narg>
+              <fs coref="@AVM6">
+                <f name="case">
+                  <sym varname="@V2"/>
+                </f>
+                <f name="cat">
+                  <sym value="nuc_n"/>
+                </f>
+                <f name="e">
+                  <sym varname="@V3"/>
+                </f>
+                <f name="mr">
+                  <sym varname="@V4"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std" name="XMGVAR_NodeNoun">
+              <narg>
+                <fs coref="@AVM7">
+                  <f name="case">
+                    <sym varname="@V2"/>
+                  </f>
+                  <f name="cat">
+                    <sym value="noun"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="anchor" name="XMGVAR_NodeNRoot">
+                <narg>
+                  <fs coref="@AVM8">
+                    <f name="cat">
+                      <sym value="nroot"/>
+                    </f>
+                  </fs>
+                </narg>
+              </node>
+              <node type="subst" name="XMGVAR_NodeCaseMarker">
+                <narg>
+                  <fs coref="@AVM9">
+                    <f name="case">
+                      <sym varname="@V2"/>
+                    </f>
+                    <f name="cat">
+                      <sym value="casemark"/>
+                    </f>
+                  </fs>
+                </narg>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </tree>
+    <interface>
+      <fs>
+        <f name="_lang_">
+          <sym value="YAQ"/>
+        </f>
+      </fs>
+    </interface>
+  </entry>
+  <entry name="ArgumentYAQ_1">
+    <family>ArgumentYAQ</family>
+    <trace>
+      <class>Plugin_YAQ</class>
+      <class>NominalSpine</class>
+      <class>NounWithCase</class>
+      <class>ArgumentYAQ</class>
+    </trace>
+    <frame >
+    </frame>
+    <tree id="ArgumentYAQ_1">
+      <node type="std" name="XMGVAR_NP">
+        <narg>
+          <fs coref="@AVM1">
+            <f name="case">
+              <vAlt coref="@AD2">
+                <sym value="nom"/>
+              </vAlt>
+            </f>
+            <f name="cat">
+              <sym value="np"/>
+            </f>
+            <f name="e">
+              <sym varname="@V3"/>
+            </f>
+            <f name="mr">
+              <sym varname="@V4"/>
+            </f>
+          </fs>
+        </narg>
+        <node type="std" name="XMGVAR_CORE_N">
+          <narg>
+            <fs coref="@AVM5">
+              <f name="case">
+                <vAlt coref="@AD2"/>
+              </f>
+              <f name="cat">
+                <sym value="core_n"/>
+              </f>
+              <f name="e">
+                <sym varname="@V3"/>
+              </f>
+              <f name="mr">
+                <sym varname="@V4"/>
+              </f>
+            </fs>
+          </narg>
+          <node type="std" name="XMGVAR_NUC_N">
+            <narg>
+              <fs coref="@AVM6">
+                <f name="case">
+                  <vAlt coref="@AD2"/>
+                </f>
+                <f name="cat">
+                  <sym value="nuc_n"/>
+                </f>
+                <f name="e">
+                  <sym varname="@V3"/>
+                </f>
+                <f name="mr">
+                  <sym varname="@V4"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std" name="XMGVAR_NodeNoun">
+              <narg>
+                <fs coref="@AVM7">
+                  <f name="case">
+                    <vAlt coref="@AD2"/>
+                  </f>
+                  <f name="cat">
+                    <sym value="noun"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="anchor" name="XMGVAR_NodeNRoot">
+                <narg>
+                  <fs coref="@AVM8">
+                    <f name="cat">
+                      <sym value="nroot"/>
+                    </f>
+                  </fs>
+                </narg>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </tree>
+    <interface>
+      <fs>
+        <f name="_lang_">
+          <sym value="YAQ"/>
+        </f>
+      </fs>
+    </interface>
+  </entry>

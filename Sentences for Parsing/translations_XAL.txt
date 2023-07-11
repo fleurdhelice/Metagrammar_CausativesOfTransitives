@@ -1,0 +1,11 @@
+bagšə madn igə škol də kogʒmə soŋs ul na
+%% [('teacher',), ('we', 'Acc'), ('school', 'Dat'), ('music',), ('listen', 'Caus', 'Prs')]
+
+ezə n kodəlməšč ar xo al ulə v
+%% [('master', 'Ext'), ('servant', 'Ins'), ('ram',), ('kill', 'Caus', 'Pst')]
+
+ekə urə n d an xašə id ul ʒa na
+%% [('mother',), ('child', 'Ext', 'Dat', 'PossRefl'), ('porridge',), ('eat', 'Caus', 'Prog', 'Prs')]
+
+badma gerg n annj zurəg nan də uz ulə v
+%% [('Badma',), ('wife', 'Ext', 'GenPoss3'), ('image',), ('me', 'Dat'), ('see', 'Caus', 'Pst')]

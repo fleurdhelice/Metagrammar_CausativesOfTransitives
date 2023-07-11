@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="imzala">
+    <lemmaref cat="vroot" name="sign">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ti">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mudur">
+    <lemmaref cat="nroot" name="boss">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mektub">
+    <lemmaref cat="nroot" name="letter">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="dišči">
+    <lemmaref cat="nroot" name="dentist">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="t">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="u">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="e">
+    <lemmaref cat="casemark" name="Dat">
+      <fs>
+        <f name="case">
+          <sym value="dat"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

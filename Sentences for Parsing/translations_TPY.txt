@@ -1,0 +1,8 @@
+hai ts kumaru 0 sone ka wirix es
+%% [('I', 'Erg'), ('Kumaru', 'Abs'), ('drink',), ('Caus',), ('porridge', 'Dat')]
+
+hai ts chiin atawaka k atlat 0 mapa ka
+%% [('I', 'Erg'), ('Foc-Tns',), ('Atawaka', 'Erg'), ('pan', 'Abs'), ('break',), ('Caus',)]
+
+alaweru k hai ts axos 0 disi ka
+%% [('Alaweru', 'Erg'), ('1', 'Erg'), ('child', 'Abs'), ('hit',), ('Caus',)]

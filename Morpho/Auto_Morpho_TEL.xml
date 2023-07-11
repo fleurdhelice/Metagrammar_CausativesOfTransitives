@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="kaḍig">
+    <lemmaref cat="vroot" name="wash">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ǣ">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nu">
+    <lemmaref cat="aff" name="1Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kāru">
+    <lemmaref cat="nroot" name="car">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="rāmu">
+    <lemmaref cat="nroot" name="Ramu">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nēnu">
+    <lemmaref cat="nroot" name="1SG">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="inc">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="cēta">
+    <lemmaref cat="casemark" name="Ins">
+      <fs>
+        <f name="case">
+          <sym value="ins"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

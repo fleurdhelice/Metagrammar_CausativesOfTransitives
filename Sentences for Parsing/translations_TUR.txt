@@ -1,0 +1,2 @@
+dišči mektub u mudur e imzala t t\i
+%% [('dentist',), ('letter', 'Acc'), ('boss', 'Dat'), ('sign', 'Caus', 'Pst')]

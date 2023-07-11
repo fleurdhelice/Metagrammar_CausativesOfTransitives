@@ -1,0 +1,11 @@
+habimana y a men esh eje umw ana igi kombe
+%% [('Habimana',), ('c1Sbj', 'Pst', 'break', 'Caus', 'Pfv'), ('c1', 'child'), ('c7', 'cup')]
+
+umw arimu y a ki men esh eje umw ana
+%% [('c1', 'teacher'), ('c1Sbj', 'Pst', 'c7Obj', 'break', 'Caus', 'Pfv'), ('c1', 'child')]
+
+habimana y a men a igi kombe
+%% [('Habimana',), ('c1Sbj', 'Pst', 'break', 'Ipfv'), ('c7', 'cup')]
+
+umw arimu y a ndik ish ije umw ana in kuru
+%% [('c1', 'teacher'), ('c1Sbj', 'Pst', 'write', 'Caus', 'Pfv'), ('c1', 'child'), ('c9', 'story')]

@@ -1,0 +1,5 @@
+maša vas'a ny sok iz irt če
+%% [('Masha',), ('Vasja', 'Acc'), ('juice',), ('drink', 'Caus', 'Prs')]
+
+pastax toɣasčy n mašyna ny š'un dur š'e
+%% [('boss',), ('worker', 'Acc'), ('car', 'Acc'), ('wash', 'Caus', 'Pst')]

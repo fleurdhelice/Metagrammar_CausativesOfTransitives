@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="p">
+    <lemmaref cat="vroot" name="hit">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nyw">
+    <lemmaref cat="vroot" name="drink">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="0">
+    <lemmaref cat="aff" name="ConeSbj">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Sbjc1Tns">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="Fv">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="sisi">
+    <lemmaref cat="nroot" name="wall">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="o">
+    <lemmaref cat="naff" name="c1">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mw">
+    <lemmaref cat="naff" name="c1">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mu">
+    <lemmaref cat="naff" name="c1">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ma">
+    <lemmaref cat="naff" name="c6">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="lwa">
+    <lemmaref cat="nroot" name="beer">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="li">
+    <lemmaref cat="naff" name="c5">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="khangarani">
+    <lemmaref cat="nroot" name="warrior">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ka">
+    <lemmaref cat="naff" name="c6">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ekesi">
+    <lemmaref cat="nroot" name="teacher">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="wekesa">
+    <lemmaref cat="nroot" name="Wekesa">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="wafula">
+    <lemmaref cat="nroot" name="Wafula">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="isy">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="esy">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="amla">
+    <lemmaref cat="vroot" name="taste">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ama">
+    <lemmaref cat="vroot" name="see">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="d">
+    <lemmaref cat="aff" name="Fin">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ytyk">
+    <lemmaref cat="nroot" name="father">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ytik">
+    <lemmaref cat="nroot" name="grandmother">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="pitγy">
+    <lemmaref cat="nroot" name="book">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="oγla">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="p'oγla">
+    <lemmaref cat="nroot" name="child">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mos">
+    <lemmaref cat="nroot" name="berrypudding">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="n'">
+    <lemmaref cat="nroot" name="1Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="aχ">
+    <lemmaref cat="casemark" name="Dat-Acc">
+      <fs>
+        <f name="case">
+          <sym value="dat-acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="gu">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

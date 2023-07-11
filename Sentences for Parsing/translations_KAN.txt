@@ -1,0 +1,11 @@
+avanu nana ge bisket annu tinn is id anu
+%% [('3Sg', 'Nom'), ('1Sg', 'Dat'), ('biscuit', 'Acc'), ('eat', 'Caus', 'Pst', '3SgM')]
+
+avanu nana ge tɩȳ annu kud is id anu
+%% [('3Sg', 'Nom'), ('1Sg', 'Dat'), ('tea', 'Acc'), ('drink', 'Caus', 'Pst', '3SgM')]
+
+avanu nann inda tɩȳ annu kud is id anu
+%% [('3Sg', 'Nom'), ('1Sg', 'Ins'), ('tea', 'Acc'), ('drink', 'Caus', 'Pst', '3SgM')]
+
+avanu nann inda bisket annu tinn is id anu
+%% [('3Sg', 'Nom'), ('1Sg', 'Ins'), ('biscuit', 'Acc'), ('eat', 'Caus', 'Pst', '3SgM')]

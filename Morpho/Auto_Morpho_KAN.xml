@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="tinn">
+    <lemmaref cat="vroot" name="eat">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kud">
+    <lemmaref cat="vroot" name="drink">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="id">
+    <lemmaref cat="aff" name="Pst">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="anu">
+    <lemmaref cat="aff" name="3SgM">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="tɩȳ">
+    <lemmaref cat="nroot" name="tea">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="bisket">
+    <lemmaref cat="nroot" name="biscuit">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nann">
+    <lemmaref cat="nroot" name="1Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nana">
+    <lemmaref cat="nroot" name="1Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="avanu">
+    <lemmaref cat="nroot" name="3Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="is">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="inda">
+    <lemmaref cat="casemark" name="Ins">
+      <fs>
+        <f name="case">
+          <sym value="ins"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="ge">
+    <lemmaref cat="casemark" name="Dat">
+      <fs>
+        <f name="case">
+          <sym value="dat"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="annu">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>

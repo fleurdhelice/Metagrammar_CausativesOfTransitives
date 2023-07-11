@@ -1,0 +1,2 @@
+arna m qamtə sta qaa xluk panigmi nun
+%% [('woman', 'Erg'), ('extinguish', 'Caus', '3Sg:3Sg'), ('oven(Abs)',), ('daughterher', 'Dat')]

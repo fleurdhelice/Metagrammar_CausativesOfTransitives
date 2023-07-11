@@ -1,0 +1,5 @@
+ł'əźə m ś'āla m pχa r yə r yə ġa q'wət a ś
+%% [('oldman', 'Erg'), ('boy', 'Erg'), ('tree', 'Abs'), ('3Sg', '3Sg', '3Sg', 'Caus', 'cut', 'Pret', 'Affmt')]
+
+yaġadžāk'wa m yadžāk'wa r wəsa m q' rə y ġa dž ā ś
+%% [('teacher', 'Erg'), ('student', 'Abs'), ('poem', 'Erg'), ('Dir', '3Sg', '3Sg', 'Caus', 'read', 'Pret', 'Affmt')]

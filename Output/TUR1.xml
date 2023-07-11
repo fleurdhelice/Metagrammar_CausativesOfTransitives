@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<grammar>
+  <entry name="dišči_mektub_u_mudur_e_imzala_t_ti_0_edgesUnified">
+    <tree id="dišči_mektub_u_mudur_e_imzala_t_ti_0_edgesUnified">
+      <node type="std">
+        <narg>
+          <fs coref="G0">
+            <f name="cat">
+              <sym value="clause"/>
+            </f>
+            <ctype/>
+          </fs>
+        </narg>
+        <node type="std">
+          <narg>
+            <fs coref="H0">
+              <f name="cat">
+                <sym value="core"/>
+              </f>
+              <ctype/>
+              <f name="valnc">
+                <sym value="3"/>
+              </f>
+              <f name="e">
+                <sym varname="A0"/>
+              </f>
+              <f name="caus">
+                <sym value="yes"/>
+              </f>
+            </fs>
+          </narg>
+          <node type="subst">
+            <narg>
+              <fs coref="I0">
+                <f name="cat">
+                  <sym value="np"/>
+                </f>
+                <ctype/>
+                <f name="e">
+                  <sym varname="F0"/>
+                </f>
+                <f name="case">
+                  <sym value="nom"/>
+                </f>
+                <f name="mr">
+                  <sym value="actor"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std">
+              <narg>
+                <fs coref="J0">
+                  <f name="cat">
+                    <sym value="core_n"/>
+                  </f>
+                  <ctype/>
+                  <f name="e">
+                    <sym varname="F0"/>
+                  </f>
+                  <f name="case">
+                    <sym value="nom"/>
+                  </f>
+                  <f name="mr">
+                    <sym value="actor"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="std">
+                <narg>
+                  <fs coref="K0">
+                    <f name="cat">
+                      <sym value="nuc_n"/>
+                    </f>
+                    <ctype/>
+                    <f name="e">
+                      <sym varname="F0"/>
+                    </f>
+                    <f name="case">
+                      <sym value="nom"/>
+                    </f>
+                    <f name="mr">
+                      <sym value="actor"/>
+                    </f>
+                  </fs>
+                </narg>
+                <node type="std">
+                  <narg>
+                    <fs coref="L0">
+                      <f name="cat">
+                        <sym value="noun"/>
+                      </f>
+                      <ctype/>
+                      <f name="case">
+                        <sym value="nom"/>
+                      </f>
+                    </fs>
+                  </narg>
+                  <node type="anchor">
+                    <narg>
+                      <fs coref="M0">
+                        <f name="cat">
+                          <sym value="nroot"/>
+                        </f>
+                        <ctype/>
+                      </fs>
+                    </narg>
+                    <node type="lex">
+                      <narg>
+                        <fs>
+                          <f name="cat">
+                            <sym value="dišči"/>
+                          </f>
+                        </fs>
+                      </narg>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node type="subst">
+            <narg>
+              <fs coref="N0">
+                <f name="cat">
+                  <sym value="np"/>
+                </f>
+                <ctype/>
+                <f name="e">
+                  <sym varname="C0"/>
+                </f>
+                <f name="case">
+                  <sym value="acc"/>
+                </f>
+                <f name="mr">
+                  <sym value="ug"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std">
+              <narg>
+                <fs coref="O0">
+                  <f name="cat">
+                    <sym value="core_n"/>
+                  </f>
+                  <ctype/>
+                  <f name="e">
+                    <sym varname="C0"/>
+                  </f>
+                  <f name="case">
+                    <sym value="acc"/>
+                  </f>
+                  <f name="mr">
+                    <sym value="ug"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="std">
+                <narg>
+                  <fs coref="P0">
+                    <f name="cat">
+                      <sym value="nuc_n"/>
+                    </f>
+                    <ctype/>
+                    <f name="e">
+                      <sym varname="C0"/>
+                    </f>
+                    <f name="case">
+                      <sym value="acc"/>
+                    </f>
+                    <f name="mr">
+                      <sym value="ug"/>
+                    </f>
+                  </fs>
+                </narg>
+                <node type="std">
+                  <narg>
+                    <fs coref="Q0">
+                      <f name="cat">
+                        <sym value="noun"/>
+                      </f>
+                      <ctype/>
+                      <f name="case">
+                        <sym value="acc"/>
+                      </f>
+                    </fs>
+                  </narg>
+                  <node type="anchor">
+                    <narg>
+                      <fs coref="R0">
+                        <f name="cat">
+                          <sym value="nroot"/>
+                        </f>
+                        <ctype/>
+                      </fs>
+                    </narg>
+                    <node type="lex">
+                      <narg>
+                        <fs>
+                          <f name="cat">
+                            <sym value="mektub"/>
+                          </f>
+                        </fs>
+                      </narg>
+                    </node>
+                  </node>
+                  <node type="subst">
+                    <narg>
+                      <fs coref="S0">
+                        <f name="cat">
+                          <sym value="casemark"/>
+                        </f>
+                        <ctype/>
+                        <f name="case">
+                          <sym value="acc"/>
+                        </f>
+                      </fs>
+                    </narg>
+                    <node type="lex">
+                      <narg>
+                        <fs>
+                          <f name="cat">
+                            <sym value="u"/>
+                          </f>
+                        </fs>
+                      </narg>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node type="subst">
+            <narg>
+              <fs coref="T0">
+                <f name="cat">
+                  <sym value="np"/>
+                </f>
+                <ctype/>
+                <f name="e">
+                  <sym varname="D0"/>
+                </f>
+                <f name="case">
+                  <sym value="dat"/>
+                </f>
+                <f name="mr">
+                  <sym value="nmr"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std">
+              <narg>
+                <fs coref="U0">
+                  <f name="cat">
+                    <sym value="core_n"/>
+                  </f>
+                  <ctype/>
+                  <f name="e">
+                    <sym varname="D0"/>
+                  </f>
+                  <f name="case">
+                    <sym value="dat"/>
+                  </f>
+                  <f name="mr">
+                    <sym value="nmr"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="std">
+                <narg>
+                  <fs coref="V0">
+                    <f name="cat">
+                      <sym value="nuc_n"/>
+                    </f>
+                    <ctype/>
+                    <f name="e">
+                      <sym varname="D0"/>
+                    </f>
+                    <f name="case">
+                      <sym value="dat"/>
+                    </f>
+                    <f name="mr">
+                      <sym value="nmr"/>
+                    </f>
+                  </fs>
+                </narg>
+                <node type="std">
+                  <narg>
+                    <fs coref="W0">
+                      <f name="cat">
+                        <sym value="noun"/>
+                      </f>
+                      <ctype/>
+                      <f name="case">
+                        <sym value="dat"/>
+                      </f>
+                    </fs>
+                  </narg>
+                  <node type="anchor">
+                    <narg>
+                      <fs coref="X0">
+                        <f name="cat">
+                          <sym value="nroot"/>
+                        </f>
+                        <ctype/>
+                      </fs>
+                    </narg>
+                    <node type="lex">
+                      <narg>
+                        <fs>
+                          <f name="cat">
+                            <sym value="mudur"/>
+                          </f>
+                        </fs>
+                      </narg>
+                    </node>
+                  </node>
+                  <node type="subst">
+                    <narg>
+                      <fs coref="Y0">
+                        <f name="cat">
+                          <sym value="casemark"/>
+                        </f>
+                        <ctype/>
+                        <f name="case">
+                          <sym value="dat"/>
+                        </f>
+                      </fs>
+                    </narg>
+                    <node type="lex">
+                      <narg>
+                        <fs>
+                          <f name="cat">
+                            <sym value="e"/>
+                          </f>
+                        </fs>
+                      </narg>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node type="std">
+            <narg>
+              <fs coref="Z0">
+                <f name="cat">
+                  <sym value="nuc"/>
+                </f>
+                <ctype/>
+                <f name="valnc">
+                  <sym value="3"/>
+                </f>
+                <f name="e">
+                  <sym varname="A0"/>
+                </f>
+                <f name="caus">
+                  <sym value="yes"/>
+                </f>
+              </fs>
+            </narg>
+            <node type="std">
+              <narg>
+                <fs coref="A1">
+                  <f name="cat">
+                    <sym value="verb"/>
+                  </f>
+                  <ctype/>
+                  <f name="valnc">
+                    <sym value="3"/>
+                  </f>
+                  <f name="e">
+                    <sym varname="A0"/>
+                  </f>
+                  <f name="caus">
+                    <sym value="yes"/>
+                  </f>
+                </fs>
+              </narg>
+              <node type="std">
+                <narg>
+                  <fs coref="B1">
+                    <f name="cat">
+                      <sym value="stem"/>
+                    </f>
+                    <ctype/>
+                    <f name="valtype">
+                      <sym value="valincr"/>
+                    </f>
+                    <f name="trans">
+                      <sym value="tr"/>
+                    </f>
+                    <f name="caus">
+                      <sym value="yes"/>
+                    </f>
+                    <f name="valnc">
+                      <sym value="3"/>
+                    </f>
+                    <f name="e">
+                      <sym varname="A0"/>
+                    </f>
+                  </fs>
+                </narg>
+                <node type="anchor">
+                  <narg>
+                    <fs coref="C1">
+                      <f name="cat">
+                        <sym value="vroot"/>
+                      </f>
+                      <ctype/>
+                      <f name="trans">
+                        <sym value="tr"/>
+                      </f>
+                      <f name="e">
+                        <sym varname="B0"/>
+                      </f>
+                    </fs>
+                  </narg>
+                  <node type="lex">
+                    <narg>
+                      <fs>
+                        <f name="cat">
+                          <sym value="imzala"/>
+                        </f>
+                      </fs>
+                    </narg>
+                  </node>
+                </node>
+                <node type="subst">
+                  <narg>
+                    <fs coref="D1">
+                      <f name="cat">
+                        <sym value="causaff"/>
+                      </f>
+                      <ctype/>
+                      <f name="e">
+                        <sym varname="E0"/>
+                      </f>
+                      <f name="caus">
+                        <sym value="yes"/>
+                      </f>
+                      <f name="valtype">
+                        <sym value="valincr"/>
+                      </f>
+                    </fs>
+                  </narg>
+                  <node type="lex">
+                    <narg>
+                      <fs>
+                        <f name="cat">
+                          <sym value="t"/>
+                        </f>
+                      </fs>
+                    </narg>
+                  </node>
+                </node>
+              </node>
+              <node type="anchor">
+                <narg>
+                  <fs coref="E1">
+                    <f name="cat">
+                      <sym value="aff"/>
+                    </f>
+                    <ctype/>
+                  </fs>
+                </narg>
+                <node type="lex">
+                  <narg>
+                    <fs>
+                      <f name="cat">
+                        <sym value="ti"/>
+                      </f>
+                    </fs>
+                  </narg>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </tree>
+    <frame>
+      <fs coref="A0">
+        <ctype>
+          <type val="causation"/>
+        </ctype>
+        <f name="effect">
+          <fs coref="B0">
+            <ctype>
+              <type val="event"/>
+            </ctype>
+            <f name="patient">
+              <sym varname="C0"/>
+            </f>
+            <f name="agent">
+              <sym varname="D0"/>
+            </f>
+          </fs>
+        </f>
+        <f name="cause">
+          <fs coref="E0">
+            <ctype>
+              <type val="activity"/>
+            </ctype>
+            <f name="effector">
+              <sym varname="F0"/>
+            </f>
+          </fs>
+        </f>
+      </fs>
+    </frame>
+    <trace>
+      <class>ROOT::IntersectionTUR_71_[imzala]::[imzala]</class>
+      <class>SISTERADJOIN::AnchorAdjunctVerbalInflectAffix_167_[ti]::[ti]</class>
+      <class>SUBST::AnchorOneMorpheme_168_[t]::[t]</class>
+      <class>SUBST::ArgumentTUR_52_[mudur]::[mudur]</class>
+      <class>SUBST::AnchorOneMorpheme_168_[e]::[e]</class>
+      <class>SUBST::ArgumentTUR_52_[mektub]::[mektub]</class>
+      <class>SUBST::AnchorOneMorpheme_168_[u]::[u]</class>
+      <class>SUBST::ArgumentTUR_53_[dišči]::[dišči]</class>
+    </trace>
+  </entry>
+</grammar>

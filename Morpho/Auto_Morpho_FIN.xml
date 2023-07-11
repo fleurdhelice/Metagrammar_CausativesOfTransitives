@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<mcgrammar>
+<morphs>
+  <morph lex="tapa">
+    <lemmaref cat="vroot" name="kill">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="rakenn">
+    <lemmaref cat="vroot" name="build">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kuiva">
+    <lemmaref cat="vroot" name="dry">
+      <fs>
+        <f name="trans">
+          <sym value="tr"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="i">
+    <lemmaref cat="aff" name="Pst3Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="a">
+    <lemmaref cat="aff" name="3Sg">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="talo">
+    <lemmaref cat="nroot" name="house">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="pyykki">
+    <lemmaref cat="nroot" name="laundry">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="naapuri">
+    <lemmaref cat="nroot" name="neighbour">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="etana">
+    <lemmaref cat="nroot" name="slug">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="satu">
+    <lemmaref cat="nroot" name="Satu">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="peka">
+    <lemmaref cat="nroot" name="Pekka">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="nsä">
+    <lemmaref cat="naff" name="Poss3">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="mikko">
+    <lemmaref cat="nroot" name="Mikko">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="kalle">
+    <lemmaref cat="nroot" name="Kalle">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="diane">
+    <lemmaref cat="nroot" name="Diane">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="an">
+    <lemmaref cat="naff" name="Poss3">
+      <fs>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="utta">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="tta">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="tt">
+    <lemmaref cat="causaff" name="CAUS">
+      <fs>
+        <f name="valtype">
+          <sym value="valincr"/>
+        </f>
+        <f name="caus">
+          <sym value="yes"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="n">
+    <lemmaref cat="casemark" name="Acc">
+      <fs>
+        <f name="case">
+          <sym value="acc"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+  <morph lex="lla">
+    <lemmaref cat="casemark" name="Adess">
+      <fs>
+        <f name="case">
+          <sym value="adess"/>
+        </f>
+      </fs>
+    </lemmaref>
+  </morph>
+</morphs>
+</mcgrammar>
